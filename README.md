@@ -59,7 +59,7 @@ Claude will guide you through the process.
 
 ## Creating Your Own Skills
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on creating and submitting new skills.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributions.
 
 ## License
 
