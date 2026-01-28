@@ -32,6 +32,7 @@ invocation: explicit
 ```
 
 The body should include:
+
 - **Role Definition** - What expertise Claude should embody
 - **Process** - Step-by-step workflow
 - **Output Specifications** - What gets created and where
